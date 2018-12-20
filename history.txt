@@ -1,0 +1,2671 @@
+    1  pwd
+    2  oh my zsh themes
+    3  exit
+    4  history
+    5  oh my zsh themes
+    6  my
+    7  zsh themes
+    8  exit
+    9  open ~/.zshrc
+   10  exit
+   11  pwd
+   12  exit
+   13  git clone https://github.com/zsh-users/zsh-syntax-highlighting.git
+   14  echo "source ${(q-)PWD}/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh" >> ${ZDOTDIR:-$HOME}/.zshrc
+   15  exit
+   16  history
+   17  open ~/.zshrc
+   18  cd ~/
+   19  ls
+   20  cp .zshrc .zshrc.bak
+   21  ls .z*
+   22  open .zshrc
+   23  exit
+   24  cd ~
+   25  ls
+   26  vim .vimrc
+   27  source ~/.vimrc
+   28  vim .vimrc
+   29  exit
+   30  ls
+   31  pwd
+   32  cd IdeaProject
+   33  ls
+   34  cd 11st
+   35  ls
+   36  cd 01.tmalldomainproject
+   37  j
+   38  gradle
+   39  gradle --version
+   40  gradle 
+   41  gradle -v
+   42  brew install gradle
+   43              
+   44  cd /etc
+   45  ls
+   46  cd https
+   47  cd httpd
+   48  ls
+   49  ls -l
+   50  cd apache2
+   51  ls
+   52  cp httpd.conf httpd.conf.th
+   53  cp workers.properties workers.properties.th
+   54  cp /Users/cjloveu/Downloads/httpd.conf . 
+   55  sudo cp /Users/cjloveu/Downloads/httpd.conf . 
+   56  ls httpd*
+   57  ls -l httpd*
+   58  cp /Users/cjloveu/Downloads/workers.properties 
+   59  sudo cp /Users/cjloveu/Downloads/workers.properties  .
+   60  ls -l workers.*
+   61  ls httpd-*
+   62  cap httpd.conf
+   63  cat httpd.conf
+   64  cd extra
+   65  ls
+   66  cp httpd-vhosts.conf httpd-vhosts.conf.th
+   67  sudo cp /Users/cjloveu/Downloads/httpd-vhosts.conf  .
+   68  cd ..
+   69  sudo cp /Users/cjloveu/Downloads/uriworkermap.properties  .
+   70  ls
+   71  cd extra
+   72  ls
+   73  cd /usr/libexec/apache2
+   74  ls
+   75  cp mod_jk.so mod_jk.so.th
+   76  sudo cp /Users/cjloveu/Downloads/mod_jk\ \(1\).so  mod_jk.so
+   77  ls -l mod*
+   78  ls -l mod_jk*
+   79  cd /etc/apache2/ls
+   80  cd /etc/apache2/
+   81  ls
+   82  cp /Users/cjloveu/Downloads/server.key.pub /Users/cjloveu/Downloads/server.key /Users/cjloveu/Downloads/server.csr /Users/cjloveu/Downloads/server.crt .
+   83  sudo cp /Users/cjloveu/Downloads/server.key.pub /Users/cjloveu/Downloads/server.key /Users/cjloveu/Downloads/server.csr /Users/cjloveu/Downloads/server.crt .
+   84  ls -l
+   85  sudo apachctl restart
+   86  sudo apachectl configtest
+   87  cd extra
+   88  ls
+   89  sudo cp /Users/cjloveu/Downloads/httpd-ssl.conf  .
+   90  ls
+   91  cd ..
+   92  ls
+   93  sudo apachectl configtest
+   94  mkdir /log
+   95  sudo mkdir /log
+   96  sudo mkdir /log/web
+   97  ls
+   98  brew install autocomplete
+   99  sudo apachectl configtest
+  100  git clone git@github.com:zsh-users/zsh-autosuggestions.git ~/.oh-my-zsh/plugins/zsh-autosuggestions
+  101  git clone https://github.com/zsh-users/zsh-autosuggestions ~/.zsh/zsh-autosuggestions
+  102  source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
+  103  ls
+  104  cd ~/.zsh
+  105  ls
+  106  source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
+  107  cd ..
+  108  cd /etc/apache2/
+  109  ls
+  110  sudo apachectl configtest
+  111  sudo apachectl restart
+  112  cd IdeaProject
+  113  cd /IdeaProject
+  114  ls
+  115  cd /
+  116  ls
+  117  cd Users/cjloveu
+  118  ls
+  119  cd IdeaProject
+  120  ls
+  121  cd 11st
+  122  ls
+  123  cd 12.tmallmobilewebproject
+  124  ls
+  125  rm -rf .idea
+  126  ls
+  127  git pull
+  128  git checkout master
+  129  ls
+  130  cd ..
+  131  ls
+  132  cd 01.tmalldomainproject
+  133  ls
+  134  git checkout master
+  135  git pull
+  136  ls
+  137  cd ..
+  138  cd 12
+  139  cd 12.tmallmobilewebproject
+  140  ls
+  141  git diff
+  142  rm -rf .idea
+  143  cd /Users
+  144  brew install tomcatbrew install tomcat7
+  145  brew install tomcat7
+  146  cd /etc
+  147  ls
+  148  cd apache2
+  149  ls
+  150  cd ..
+  151  ls
+  152  cd /usr
+  153  ls
+  154  cd libexec
+  155  ;s
+  156  ls
+  157  cd ..
+  158  ls
+  159  cd local
+  160  ls
+  161  cd Homebrew
+  162  ls
+  163  cd ..
+  164  ls
+  165  cd share
+  166  ls
+  167  cd ..
+  168  ls
+  169  cd Cellar
+  170  ls
+  171  cd tomcat@7
+  172  ls
+  173  cd 7.0.82
+  174  pwd
+  175  cd ..
+  176  ls
+  177  cd ..
+  178  ls
+  179  cd ..
+  180  ls
+  181  cd bin
+  182  ls
+  183  cd ..
+  184  ls
+  185  cd Cellar
+  186  ls
+  187  mv tomcat@7 tomcat7
+  188  ls
+  189  cd /Users
+  190  ls
+  191  cd cjloveu
+  192  ls
+  193  cd 11streetPlatform
+  194  ls
+  195  cd Server
+  196  ls
+  197  sudo cp /Users/cjloveu/Downloads/apache-tomcat-7.0.64 .
+  198  sudo mv /Users/cjloveu/Downloads/apache-tomcat-7.0.64 .
+  199  ls -l
+  200  cd
+  201  mv /Users/cjloveu/Downloads/MaxClient MaxClient.app
+  202  pwd
+  203  ls
+  204  cd 11streetPlatform
+  205  ls
+  206  cd Server
+  207  ls
+  208  rm apache-tomcat-7.0.64 -rf
+  209  rm apache-tomcat-7.0.64
+  210  rm /apache-tomcat-7.0.64
+  211  rm -rf /apache-tomcat-7.0.64
+  212  ls
+  213  cd apache-tomcat-7.0.64
+  214  ls
+  215  rm -rf .
+  216  rm -rf *.*
+  217  ls
+  218  cd bin
+  219  ls
+  220  cd ..
+  221  ls
+  222  ls -l
+  223  rm -help
+  224  rm -Rf *.*
+  225  rm -Rf 
+  226  ls
+  227  cd ..
+  228  ls
+  229  cd /Users/cjloveu/11streetPlatform/Server
+  230  ls
+  231  cd apache-tomcat-7.0.68
+  232  ls
+  233  cd bin
+  234  ls
+  235  vi setenv.sh
+  236  exit
+  237  ls
+  238  git pull
+  239  git diff
+  240  git pull
+  241  cd ..
+  242  cd 01.tmalldomainproject
+  243  git pull
+  244  ls
+  245  ./gradlew clean build
+  246  cd /Users/cjloveu/11streetPlatform
+  247  ls
+  248  cd Server
+  249  ls
+  250  cd apache-tomcat-7.0.68/lib
+  251  ls
+  252  ls -l
+  253  \n
+  254  pwd
+  255  cd 11streetPlatform/Server/apache-tomcat-7.0.68/bin
+  256  ls
+  257  cd ..
+  258  cd lib
+  259  ls
+  260  sudo cp /Users/cjloveu/Downloads/ojdbc14-10.2.0.4.0.jar .
+  261  sudo apachectl restart
+  262  ping m.11st.co.kr
+  263  cd /log
+  264  ls
+  265  cd web
+  266  ls
+  267  ls -l
+  268  cat mobileweb.11st.co.kr-access_log
+  269  tail mobileweb.11st.co.kr-access_log
+  270  tail -f mobileweb.11st.co.kr-access_log
+  271  cd /etc
+  272  ls
+  273  cd /etc
+  274  ls
+  275  cd apache2
+  276  ls
+  277  cat httpd.conf
+  278  clear
+  279  cat httpd.conf
+  280  cat libexec/apache2/mod_jk.so
+  281  cat /libexec/apache2/mod_jk.so
+  282  ls
+  283  cd ..
+  284  ls
+  285  cd apache2
+  286  ls
+  287  ls -l
+  288  clear
+  289  cat httpd.conf
+  290  cat httpd.conf || mod*
+  291  cat httpd.conf 
+  292  cat httpd.conf | grep 'mok_jk
+  293  cat httpd.conf | grep 'mok_jk'
+  294  cat httpd.conf | args grep 'mok_jk'
+  295  cat httpd.conf grep 'mok_'
+  296  clear
+  297  cat httpd.conf grep 'mok_'
+  298  cat httpd.conf | grep 'mok_'
+  299  cat httpd.conf | grep 'mod_'
+  300  cat httpd.conf | grep 'mod_jk'
+  301  find -name "mod_jk.so"
+  302  find ./ -name "mod_jk.so"
+  303  find ./ -name "mod_jk.so" -r
+  304  find ./ -name "mod_jk.so"
+  305  ls -l
+  306  cd \\nls
+  307  cd /
+  308  ls
+  309  cd etc/apache2/
+  310  ls
+  311  history
+  312  sudo apachectl configtest
+  313  history | grep "mod*"
+  314  history
+  315  cd /usr/libexec/
+  316  ls
+  317  cd apache2
+  318  ls
+  319  cat mod_jk.so
+  320  ls
+  321  cd ..
+  322  ls
+  323  cd /etc/apache2
+  324  ls
+  325  cat workers.properties
+  326  cat httpd.conf grep 'mod_jk.so'
+  327  cat httpd.conf | grep 'mod_jk.so'
+  328  sudo apachctl 
+  329  sudo apachectl
+  330  ping localhost
+  331  ping m.11st.co.kr
+  332  ls
+  333  cd /log
+  334  ls
+  335  cd web
+  336  ls
+  337  tail -f mobileweb.11st.co.kr-*
+  338  ls
+  339  vim workers.properties
+  340  vim uriworkermap.properties
+  341  cd extra
+  342  ls
+  343  vim httpd-vhosts.conf
+  344  sudo apachectl configtest
+  345  netstat -npl |grep 1099
+  346  netstat -npl
+  347  netstat -np
+  348  netstat -p
+  349  netstat
+  350  netstat | grep 1099
+  351  ls -l
+  352  cd /log
+  353  ls
+  354  cd we
+  355  cd web
+  356  ls
+  357  tail -f mobileweb.11st.co.kr-*
+  358  tail -f mobileweb.11st.co.kr-access_log
+  359  tail -f mobileweb.11st.co.kr-error_log
+  360  tail -f mobileweb.11st.co.kr-*
+  361  pwd
+  362  ls
+  363  cd IdeaProject
+  364  ls
+  365  cd 11st
+  366  ls
+  367  git checkout ssh://git@bitbucket.skplanet.com:7999/stprd/12.mobileweb-static.git
+  368  \t\tgit checkout ssh://git@bitbucket.skplanet.com:7999/stprd/12.mobileweb-static.githi
+  369  history | grop 'git'
+  370  history | grep 'git'
+  371  git clone ssh://git@bitbucket.skplanet.com:7999/stprd/12.mobileweb-static.git
+  372  pwd
+  373  cd /Users/cjloveu/IdeaProject/11st
+  374  ls
+  375  cd 12.tmallmobilewebproject
+  376  ls
+  377  cd src
+  378  ls
+  379  cd ..
+  380  ls
+  381  cd webapps
+  382  ls
+  383  cd WEB-INF
+  384  ls
+  385  cd ..
+  386  ln -s ../../12.MobileWeb-Static/css css
+  387  ls
+  388  cd css
+  389  ls
+  390  ln -s ../../12.MobileWeb-Static/js js
+  391  ln -s ../../12.MobileWeb-Static/img img
+  392  ls
+  393  cd 12.mobileweb-static
+  394  ls
+  395  mv img ../.
+  396  mv img ../img
+  397  mv js ../js
+  398  cd ..
+  399  ls -l
+  400  cd css
+  401  ls
+  402  cd ..
+  403  ls
+  404  cd /
+  405  ls
+  406  cd /Users/cjloveu/IdeaProject/11st
+  407  LS
+  408  CD 12.tmallmobilewebproject
+  409  LS
+  410  ls
+  411  cd 12.tmallmobilewebproject
+  412  cd webapps
+  413  ls
+  414  ln -s ../../12.MobileWeb-Static/js js
+  415  ls
+  416  ln -s ../../12.MobileWeb-Static/img img
+  417  ls
+  418  cd css
+  419  ls
+  420  cd ..
+  421  ls
+  422  cd ..
+  423  ls
+  424  cd 12.mobileweb-static
+  425  ls
+  426  cd css
+  427  ls
+  428  cd ..
+  429  history
+  430  ping localhost
+  431  cupsctl WebInterface=yes
+  432  ipconfig
+  433  y
+  434  def -h
+  435  df -h
+  436  exit
+  437  pwd
+  438  ls
+  439  ls -l
+  440  cd 11streetPlatform
+  441  ;s
+  442  ls
+  443  cd ..
+  444  ls
+  445  pwd
+  446  ls
+  447  history
+  448  cd IdeaProject/11st
+  449  ls
+  450  git clone ssh://git@bitbucket.skplanet.com:7999/stprd/05.etcproject.git
+  451  history | grep git
+  452  git checkout ssh://git@bitbucket.skplanet.com:7999/stprd/05.etcproject.git
+  453  git clone ssh://git@bitbucket.skplanet.com:7999/stprd/05.etcproject.git
+  454  git
+  455  git clone ssh://git@bitbucket.skplanet.com:7999/stprd/05.etcproject.git
+  456  history
+  457  pwd
+  458  git clone ssh://git@bitbucket.skplanet.com:7999/stprd/12.tmallmobilewebproject.git
+  459  cd ..
+  460  pwd
+  461  git clone ssh://git@bitbucket.skplanet.com:7999/stprd/05.etcproject.git
+  462  git clone
+  463  ls
+  464  cd ..
+  465  ls
+  466  history >> hist.txt
+  467  ls
+  468  cat hist.txt
+  469  clear
+  470  cat hist.txt
+  471  pwd
+  472  sudo apachctl configtest
+  473  sudo apachectl configtest
+  474  sudo apachctl restart
+  475  cd /etc/apache2
+  476  sudo apachctl restart
+  477  sudo apachectl restart
+  478  sudo apachectl configtest
+  479  cd /Users/cjloveu/IdeaProject/11st
+  480  ls
+  481  cd 12.tmallmobilewebproject
+  482  git pull
+  483  cd ..
+  484  cd 01.tmalldomainproject
+  485  git pull
+  486  cd ..
+  487  ls
+  488  cd FrontEnd
+  489  ls
+  490  cd src
+  491  ls
+  492  cd ..
+  493  ls
+  494  cd ..
+  495  ls
+  496  rm FrontEnd
+  497  rm -rf FrontEnd
+  498  ls
+  499  pwd
+  500  git clone ssh://git@bitbucket.skplanet.com:7999/stprd/05.etcproject.git
+  501  ls
+  502  ls -l
+  503  cd ..
+  504  ls
+  505  cd 11st
+  506  ;s
+  507  ls
+  508  cd 01.tmalldomainproject
+  509  ls
+  510  cd ..
+  511  ls
+  512  cd 12.
+  513  git checkout frature/PROJ-108
+  514  ls
+  515  ㅊㅇ ..
+  516  cd ..
+  517  ls
+  518  cd ..
+  519  ls
+  520  cd IdeaProjects
+  521  ls
+  522  cd 11st
+  523  ls
+  524  cd ..
+  525  rm -rf IdeaProjects
+  526  cd IdeaProject
+  527  ls
+  528  cd 11st
+  529  ls
+  530  git clone ssh://git@bitbucket.skplanet.com:7999/stprd/05.etcproject.git
+  531  ls -l
+  532  cd ..
+  533  ls
+  534  cd 05.etcproject
+  535  git pull
+  536  cd ..
+  537  git pull
+  538  ls
+  539  cd 01.tmalldomainproject
+  540  git pull
+  541  cd ..
+  542  ls
+  543  cd 12.mobileweb-static
+  544  git pull
+  545  cd ..
+  546  ls
+  547  cd 12.tmallmobilewebproject
+  548  git pull
+  549  status
+  550  git status
+  551  git push --help
+  552  ls
+  553  pwd
+  554  ls
+  555  ls -l
+  556  ls
+  557  ls -lw
+  558  cd \\nls
+  559  pw
+  560  pwd
+  561  cd /
+  562  pwd
+  563  ls
+  564  cd Users
+  565  ls
+  566  cd 11st
+  567  ls
+  568  cd ..
+  569  cd cjloveu
+  570  ls
+  571  cd 11streetPlatform
+  572  ls
+  573  cd ..
+  574  ls
+  575  cd IdeaProject
+  576  ls
+  577  cd 11st
+  578  ls
+  579  cd 12.tmallmobilewebproject
+  580  cd ..
+  581  cd 12.mobileweb-static
+  582  cd ..
+  583  cd 01.tmalldomainproject
+  584  ls
+  585  cd ..
+  586  cd 12.tmallmobilewebproject
+  587  exit
+  588  ping m.11st.co.kr
+  589  exit
+  590  cd ..
+  591  ls
+  592  cd 05.etcproject
+  593  \tcd ..
+  594  ls
+  595  cd 01.tmalldomainproject
+  596  git pull
+  597  cd ..
+  598  ls
+  599  cd 05
+  600  cd 05.etcproject
+  601  git pull
+  602  TLoungeOmPrdAddBatch.java
+  603  cd ..
+  604  ls
+  605  cd 01.tmalldomainproject
+  606  cd ..
+  607  ls
+  608  ls -l
+  609  pwd
+  610  cd ..
+  611  ls
+  612  cd ..
+  613  ls
+  614  cd IdeaProjects
+  615  ls
+  616  cd 11t
+  617  cd 11st
+  618  ls
+  619  cd app-tlounge
+  620  ls
+  621  cd ..
+  622  ;s
+  623  ls
+  624  pwd
+  625  cd ..
+  626  ;s
+  627  ls
+  628  exit
+  629  pull
+  630  git pull
+  631  ping c.m.011st.com
+  632  git pull
+  633  exit
+  634  pull
+  635  git pull
+  636  exit
+  637  history
+  638  history | grep git
+  639  pull
+  640  git pull
+  641  git reset HEAD~2
+  642  pull
+  643  git pull
+  644  cd ..
+  645  lks
+  646  ls
+  647  cd 01.tmalldomainproject
+  648  ls
+  649  pull
+  650  git pull
+  651  cd ..
+  652  ls
+  653  cd 05.etcproject
+  654  ls
+  655  pull
+  656  git pull
+  657  git merge Feature/PROJ-108
+  658  git checkout feature\proj-108
+  659  git checkout proj-108
+  660  cd ..
+  661  ls
+  662  cd 01.tmalldomainproject
+  663  ls
+  664  cd ..
+  665  ls
+  666  cd 05.etcproject
+  667  ls
+  668  git checkput feature/PROJ-108
+  669  git checkout feature/PROJ-108
+  670  pull
+  671  git pull
+  672  git status
+  673  git rm --cached MathPow.java
+  674  git status
+  675  git merge master
+  676  git status
+  677  pull
+  678  git pull
+  679  cit commit
+  680  git commit
+  681  git push
+  682  git pull
+  683  git commit
+  684  git push
+  685  git status
+  686  git pull
+  687  쳐기c
+  688  curl
+  689  curl --help
+  690  curl 'https://dev.11pay.co.kr:31558/authorizer/apis/v2/authorizations/grant' -i -u '11st-cellphone-shop:8Xr1Uh0pR8OYzFWvwbNN6aCsLjQzufoL' -X POST \\n    -H 'Content-Type: application/json' \\n    -H 'Accept: application/json' \\n    -d '{\n  "customer" : {\n    "identifier" : "12345678"\n  }\n}'
+  691  cd ..
+  692  ls
+  693  cd 01.tmalldomainproject
+  694  ls
+  695  git pull
+  696  cd ..
+  697  ks
+  698  cd ..
+  699  ls
+  700  cd 11st
+  701  ls
+  702  cd 05.etcproject
+  703  ls
+  704  git pull
+  705  cd ..
+  706  ls
+  707  cd 01.tmalldomainproject
+  708  ls
+  709  git pull
+  710  cd ..
+  711  ls
+  712  cd 05.etcproject
+  713  git pull
+  714  exit
+  715  curl 'https://dev.11pay.co.kr:31558/authorizer/apis/v2/authorizations/grant' -i -u '11st-cellphone-shop:8Xr1Uh0pR8OYzFWvwbNN6aCsLjQzufoL' -X POST \\n    -H 'Content-Type: application/json' \\n    -H 'Accept: application/json' \\n    -d '{\n  "customer" : {\n    "identifier" : "12345678"\n  }\n}'
+  716  curl --help
+  717  curl 'https://dev.11pay.co.kr:31558/authorizer/apis/v2/authorizations/grant' -i -u '11st-cellphone-shop:8Xr1Uh0pR8OYzFWvwbNN6aCsLjQzufoL' -X POST \\n    -H 'Content-Type: application/json' \\n    -H 'Accept: application/json' \\n    -d '{\n  "customer" : {\n    "identifier" : "12345678"\n  }\n}'
+  718  git checkout feature/PROJ-108-1
+  719  git pull
+  720  curl 'http://dev.11pay.co.kr:31558/authorizer/apis/v2/authorizations/grant' -i -u '11st-cellphone-shop:8Xr1Uh0pR8OYzFWvwbNN6aCsLjQzufoL' -X POST \\n    -H 'Content-Type: application/json' \\n    -H 'Accept: application/json' \\n    -d '{\n  "customer" : {\n    "identifier" : "12345678"\n  }\n}'
+  721  git pull
+  722  git status
+  723  git pull
+  724  cd ..
+  725  ls
+  726  cd 01.tmalldomainproject
+  727  ls
+  728  git pull
+  729  cd ..
+  730  ls
+  731  cd 12.mobileweb-static
+  732  git checkout feature/PROJ-108-1
+  733  cd ..
+  734  ls
+  735  cd 12.tmallmobilewebproject
+  736  cd ..
+  737  cd 12.mobileweb-static
+  738  history
+  739  history | grep proj-108-1
+  740  history | grep proj
+  741  history | grep proj-108
+  742  git checkout feature\proj-108-1
+  743  git checkout frature\PRJTLOUNGE-493
+  744  git checkout feature\PRJTLOUNGE-493
+  745  git checkout feature/PRJTLOUNGE-493
+  746  cd ..
+  747  ls
+  748  cd 12.tmallmobilewebproject
+  749  git checkout DEVELOP
+  750  git checkout feature/PROJ-108-1
+  751  git pull
+  752  cd ..
+  753  ls
+  754  cd git 02.m
+  755  cd 12.mobileweb-static
+  756  ls
+  757  git checkout feature\PRJTLOUNGE-439
+  758  git pull
+  759  git checkout feature\PRJTLOUNGE-439
+  760  git checkout feature/PRJTLOUNGE-439
+  761  ls -l
+  762  ls
+  763  cd ..
+  764  ls
+  765  curl 'http://dev.11pay.co.kr:31558/authorizer/apis/v2/authorizations/grant' -i -u '11st-cellphone-shop:8Xr1Uh0pR8OYzFWvwbNN6aCsLjQzufoL' -X POST \\n    -H 'Content-Type: application/json' \\n    -H 'Accept: application/json' \\n    -d '{\n  "customer" : {\n    "identifier" : "12345678"\n  }\n}'WD
+  766  PWD
+  767  CD ~/
+  768  PWD
+  769  CD \n: 1532310330:0;CD .
+  770  CD /
+  771  LS
+  772  cd
+  773  ls
+  774  cd IdeaProject/11st
+  775  ls
+  776  git clone ssh://git@bitbucket.skplanet.com:7999/stprd/12.mobileweb-static.git
+  777  cd 12.mobileweb-static
+  778  ls
+  779  cd ..
+  780  rm -r 12.mobileweb-static
+  781  rm -rf 12.mobileweb-static
+  782  ls
+  783  git clone ssh://git@bitbucket.skplanet.com:7999/stprd/12.mobileweb-static.git
+  784  cd 12.mobileweb-static
+  785  git pull
+  786  git checkout feature/PRJTLOUNGE-445
+  787  git pull
+  788  cd ..
+  789  ls
+  790  cd 11st
+  791  ls
+  792  history
+  793  git clone 
+  794  git clone ssh://git@bitbucket.skplanet.com:7999/stprd/app-order.git
+  795  ls
+  796  cd app-order
+  797  ls
+  798  git pul
+  799  git pull
+  800  cd ..
+  801  ls
+  802  cd 05.etcproject
+  803  git pull
+  804  git status
+  805  cd ..
+  806  ls
+  807  cd 01.tmalldomainproject
+  808  git pull
+  809  git status
+  810  git pull
+  811  ㅊㅇ 
+  812  git pull
+  813  git status
+  814  cd ..
+  815  ls
+  816  cd 05.etcproject
+  817  git pull
+  818  git status
+  819  git update
+  820  git pull
+  821  cd ..
+  822  ls
+  823  cd 01.tmalldomainproject
+  824  ls
+  825  git pull
+  826  git status
+  827  cd ..
+  828  ls
+  829  cd 05.etcproject
+  830  ls
+  831  exit
+  832  git update
+  833  git pull
+  834  git push
+  835  git status
+  836  cd ..
+  837  ls
+  838  cd 05.etcproject
+  839  ls
+  840  git pull
+  841  git status
+  842  git pull
+  843  git status
+  844  git pull
+  845  git status
+  846  git pull
+  847  git stash
+  848  git pull
+  849  curl 'https://stg.11pay.co.kr:31558/authorizer/apis/v2/authorizations/grant' -i -u '11st-cellphone-shop:8Xr1Uh0pR8OYzFWvwbNN6aCsLjQzufoL' -X POST \\n    -H 'Content-Type: application/json' \\n    -H 'Accept: application/json' \\n    -d '{\n  "customer" : {\n    "identifier" : "12345678"\n  }\n}'
+  850  $ curl 'https://dev.11pay.co.kr:31558/authorizer/apis/v2/authorizations/grant' -i -u '11st-cellphone-shop:8Xr1Uh0pR8OYzFWvwbNN6aCsLjQzufoL' -X POST \\n    -H 'Content-Type: application/json' \\n    -H 'Accept: application/json' \\n    -d '{\n  "customer" : {\n    "identifier" : "12345678"\n  }\n}'
+  851  curl 'https://dev.11pay.co.kr:31558/authorizer/apis/v2/authorizations/grant' -i -u '11st-cellphone-shop:8Xr1Uh0pR8OYzFWvwbNN6aCsLjQzufoL' -X POST \\n    -H 'Content-Type: application/json' \\n    -H 'Accept: application/json' \\n    -d '{\n  "customer" : {\n    "identifier" : "12345678"\n  }\n}'
+  852  curl 'https://stg.11pay.co.kr:31558/authorizer/apis/v2/authorizations/grant' -i -u '11st-cellphone-shop:8Xr1Uh0pR8OYzFWvwbNN6aCsLjQzufoL' -X POST \\n    -H 'Content-Type: application/json' \\n    -H 'Accept: application/json' \\n    -d '{\n  "customer" : {\n    "identifier" : "12345678"\n  }\n}'
+  853  curl 'https://stg.11pay.co.kr:31558/authorizer/apis/v2/authorizations/grant' -i -u '11st-cellphone-shop:8Xr1Uh0pR8OYzFWvwbNN6aCsLjQzufoL' -X POST \\n    -H 'Content-Type: application/json' \\n    -H 'Accept: application/json' \\n    -d '{\n  "customer" : {\n    "identifier" : "10000276"\n  }\n}'
+  854  curl 'https://stage.11pay.co.kr:31558/authorizer/apis/v2/authorizations/grant' -i -u '11st-cellphone-shop:8Xr1Uh0pR8OYzFWvwbNN6aCsLjQzufoL' -X POST \\n    -H 'Content-Type: application/json' \\n    -H 'Accept: application/json' \\n    -d '{\n  "customer" : {\n    "identifier" : "10000276"\n  }\n}'
+  855  curl 'https://stage.11pay.co.kr:31558/authorizer/apis/v2/authorizations/grant' -i -u '11st-cellphone-shop:8Xr1Uh0pR8OYzFWvwbNN6aCsLjQzufoL' -X POST \\n    -H 'Content-Type: application/json' \\n    -H 'Accept: application/json' \\n    -d '{\n  "customer" : {\n    "identifier" : “10027236”\n  }\n}'
+  856  curl 'https://stage.11pay.co.kr:31558/authorizer/apis/v2/authorizations/grant' -i -u '11st-cellphone-shop:8Xr1Uh0pR8OYzFWvwbNN6aCsLjQzufoL' -X POST \\n    -H 'Content-Type: application/json' \\n    -H 'Accept: application/json' \\n    -d '{\n  "customer" : {\n    "identifier" : "10000276"\n  }\n}'
+  857  curl 'https://stage.11pay.co.kr:31558/authorizer/apis/v2/authorizations/grant' -i -u '11st-cellphone-shop:8Xr1Uh0pR8OYzFWvwbNN6aCsLjQzufoL' -X POST \\n    -H 'Content-Type: application/json' \\n    -H 'Accept: application/json' \\n    -d '{\n  "customer" : {\n    "identifier" : “10027236”\n  }\n}'
+  858  B
+  859  curl 'https://stage.11pay.co.kr:31558/authorizer/apis/v2/authorizations/grant' -i -u '11st-cellphone-shop:8Xr1Uh0pR8OYzFWvwbNN6aCsLjQzufoL' -X POST \\n    -H 'Content-Type: application/json' \\n    -H 'Accept: application/json' \\n    -d '{\n  "customer" : {\n    "identifier" : "10000276"\n  }\n}'
+  860  curl 'https://stage.11pay.co.kr:31558/authorizer/apis/v2/authorizations/grant' -i -u '11st-cellphone-shop:8Xr1Uh0pR8OYzFWvwbNN6aCsLjQzufoL' -X POST \\n    -H 'Content-Type: application/json' \\n    -H 'Accept: application/json' \\n    -d '{\n  "customer" : {\n    "identifier" : "10027236"\n  }\n}'
+  861  curl 'https://stage.11pay.co.kr:31558/authorizer/apis/v2/authorizations/grant' -i -u '11st-cellphone-shop:8Xr1Uh0pR8OYzFWvwbNN6aCsLjQzufoL' -X POST \\n    -H 'Content-Type: application/json' \\n    -H 'Accept: application/json' \\n    -d '{\n  "customer" : {\n    "identifier" : "10027236”\n  }\n}'
+  862  ipconfig
+  863  curl 'https://dev.11pay.co.kr:31558/member/apis/v2/members/authenticate' -i -X POST \\n    -H 'Accept: application/json;charset=UTF-8' \\n    -H 'Content-Type: application/json;charset=UTF-8' \\n    -d '{\n  "authorizationGrant" : "eyJhbGciOiJIUzI1NiIsImtpZCI6ImF1dGhvcml6ZXIiLCJ2ZXIiOiIxLjMuMTMifQ.eyJhdWQiOiJodHRwczovL2F1dGhvcml6ZXIuMTFwYXkuY28ua3IiLCJpc3MiOiJhdXRob3JpemVyIiwic3ViIjoiMTFzdC1jZWxscGhvbmUtc2hvcCIsImp0aSI6ImJiZWQ3ZWRiLTYzZDUtNDZhMy05ZjViLWRlMDM3NDc3YjMxNSIsImlhdCI6MTUzMzU0NTQ0MSwiZXhwIjoxNTMzNTQ5MDQxLCJtZXJjaGFudCI6eyJpZGVudGlmaWVyIjoic2t0bWFsbF9zMDAyIiwiZmVhdHVyZSI6eyJpZGVudGlmaWVyIjoiMTFzdC1jZWxscGhvbmUtc2hvcCIsIm5hbWUiOiIxMeuyiOqwgCDtnLTrjIDtj7Ag7IO1In0sInJvbGVzIjpbIkJST0tFUiJdLCJncmFudHMiOlsiQVVUSE9SSVpFX01FTUJFUl9BQ1RJT04iLCJDSE9PU0VfUEFZTUVOVF9NRVRIT0RfQUNUSU9OIiwiRklORF9NWV9JTkZPUk1BVElPTl9BQ1RJT04iLCJTSEFSRV9QQVlNRU5UX01FVEhPRF9BQ1RJT04iXSwic3RhdHVzIjoiQlVJTERfVVAifSwic2VydmljZSI6eyJpZGVudGlmaWVyIjoiMTFwYXkiLCJsZWdhbE5hbWUiOiIxMVBheSJ9LCJjdXN0b21lciI6eyJpZGVudGlmaWVyIjoiMTAwMjcyMzYifX0.DURUP    -H 'Accept: application/json;charset=U
+  864  curl 'https://dev.11pay.co.kr:31558/member/apis/v2/members/authenticate' -i -X POST \\n    -H 'Accept: application/json;charset=UTF-8' \\n    -H 'Content-Type: application/json;charset=UTF-8' \\n    -d '{\n  "authorizationGrant" : "eyJhbGciOiJIUzI1NiIsImtpZCI6ImF1dGhvcml6ZXIiLCJ2ZXIiOiIxLjMuMTMifQ.eyJhdWQiOiJodHRwczovL2F1dGhvcml6ZXIuMTFwYXkuY28ua3IiLCJpc3MiOiJhdXRob3JpemVyIiwic3ViIjoiMTFzdC1jZWxscGhvbmUtc2hvcCIsImp0aSI6ImJiZWQ3ZWRiLTYzZDUtNDZhMy05ZjViLWRlMDM3NDc3YjMxNSIsImlhdCI6MTUzMzU0NTQ0MSwiZXhwIjoxNTMzNTQ5MDQxLCJtZXJjaGFudCI6eyJpZGVudGlmaWVyIjoic2t0bWFsbF9zMDAyIiwiZmVhdHVyZSI6eyJpZGVudGlmaWVyIjoiMTFzdC1jZWxscGhvbmUtc2hvcCIsIm5hbWUiOiIxMeuyiOqwgCDtnLTrjIDtj7Ag7IO1In0sInJvbGVzIjpbIkJST0tFUiJdLCJncmFudHMiOlsiQVVUSE9SSVpFX01FTUJFUl9BQ1RJT04iLCJDSE9PU0VfUEFZTUVOVF9NRVRIT0RfQUNUSU9OIiwiRklORF9NWV9JTkZPUk1BVElPTl9BQ1RJT04iLCJTSEFSRV9QQVlNRU5UX01FVEhPRF9BQ1RJT04iXSwic3RhdHVzIjoiQlVJTERfVVAifSwic2VydmljZSI6eyJpZGVudGlmaWVyIjoiMTFwYXkiLCJsZWdhbE5hbWUiOiIxMVBheSJ9LCJjdXN0b21lciI6eyJpZGVudGlmaWVyIjoiMTAwMjcyMzYifX0.DURUPyRoI4wHKjPxREwCH0-dMlCKBZI8WIAs8ipz5w0"\n}'
+  865  curl 'https://dev.11pay.co.kr:31558/member/apis/v2/members/authenticate' -i -X POST \\n    -H 'Accept: application/json;charset=UTF-8' \\n    -H 'Content-Type: application/json;charset=UTF-8' \\n    -d '{\n  "authorizationGrant" : "eyJhbGciOiJIUzI1NiIsImtpZCI6ImF1dGhvcml6ZXIiLCJ2ZXIiOiIxLjMuMTMifQ.eyJhdWQiOiJodHRwczovL2F1dGhvcml6ZXIuMTFwYXkuY28ua3IiLCJpc3MiOiJhdXRob3JpemVyIiwic3ViIjoiMTFzdC1jZWxscGhvbmUtc2hvcCIsImp0aSI6ImJiZWQ3ZWRiLTYzZDUtNDZhMy05ZjViLWRlMDM3NDc3YjMxNSIsImlhdCI6MTUzMzU0NTQ0MSwiZXhwIjoxNTMzNTQ5MDQxLCJtZXJjaGFudCI6eyJpZGVudGlmaWVyIjoic2t0bWFsbF9zMDAyIiwiZmVhdHVyZSI6eyJpZGVudGlmaWVyIjoiMTFzdC1jZWxscGhvbmUtc2hvcCIsIm5hbWUiOiIxMeuyiOqwgCDtnLTrjIDtj7Ag7IO1In0sInJvbGVzIjpbIkJST0tFUiJdLCJncmFudHMiOlsiQVVUSE9SSVpFX01FTUJFUl9BQ1RJT04iLCJDSE9PU0VfUEFZTUVOVF9NRVRIT0RfQUNUSU9OIiwiRklORF9NWV9JTkZPUk1BVElPTl9BQ1RJT04iLCJTSEFSRV9QQVlNRU5UX01FVEhPRF9BQ1RJT04iXSwic3RhdHVzIjoiQlVJTERfVVAifSwic2VydmljZSI6eyJpZGVudGlmaWVyIjoiMTFwYXkiLCJsZWdhbE5hbWUiOiIxMVBheSJ9LCJjdXN0b21lciI6eyJpZGVudGlmaWVyIjoiMTAwMjcyMzYifX0.DURUP    -H 'Accept: application/json;charset=U
+  866  curl 'https://dev.11pay.co.kr:31558/member/apis/v2/members/authenticate' -i -X POST \\n    -H 'Accept: application/json;charset=UTF-8' \\n    -H 'Content-Type: application/json;charset=UTF-8' \\n    -d '{\n  "authorizationGrant" : "eyJhbGciOiJIUzI1NiIsImtpZCI6ImF1dGhvcml6ZXIiLCJ2ZXIiOiIxLjMuMTMifQ.eyJhdWQiOiJodHRwczovL2F1dGhvcml6ZXIuMTFwYXkuY28ua3IiLCJpc3MiOiJhdXRob3JpemVyIiwic3ViIjoiMTFzdC1jZWxscGhvbmUtc2hvcCIsImp0aSI6ImJiZWQ3ZWRiLTYzZDUtNDZhMy05ZjViLWRlMDM3NDc3YjMxNSIsImlhdCI6MTUzMzU0NTQ0MSwiZXhwIjoxNTMzNTQ5MDQxLCJtZXJjaGFudCI6eyJpZGVudGlmaWVyIjoic2t0bWFsbF9zMDAyIiwiZmVhdHVyZSI6eyJpZGVudGlmaWVyIjoiMTFzdC1jZWxscGhvbmUtc2hvcCIsIm5hbWUiOiIxMeuyiOqwgCDtnLTrjIDtj7Ag7IO1In0sInJvbGVzIjpbIkJST0tFUiJdLCJncmFudHMiOlsiQVVUSE9SSVpFX01FTUJFUl9BQ1RJT04iLCJDSE9PU0VfUEFZTUVOVF9NRVRIT0RfQUNUSU9OIiwiRklORF9NWV9JTkZPUk1BVElPTl9BQ1RJT04iLCJTSEFSRV9QQVlNRU5UX01FVEhPRF9BQ1RJT04iXSwic3RhdHVzIjoiQlVJTERfVVAifSwic2VydmljZSI6eyJpZGVudGlmaWVyIjoiMTFwYXkiLCJsZWdhbE5hbWUiOiIxMVBheSJ9LCJjdXN0b21lciI6eyJpZGVudGlmaWVyIjoiMTAwMjcyMzYifX0.DURUPyRoI4wHKjPxREwCH0-dMlCKBZI8WIAs8ipz5w0"\n}'
+  867  git status
+  868  git pull
+  869  git push
+  870  git commit
+  871  git pusl
+  872  git push
+  873  git pull
+  874  git status
+  875  git pull
+  876  git push
+  877  git status
+  878  git update
+  879  git status
+  880  git commit
+  881  git status
+  882  git push
+  883  git pull
+  884  git status
+  885  git pull
+  886  git checkout develop
+  887  git pull
+  888  git update
+  889  git checkout feature/PROJ-108
+  890  git pull
+  891  cd ..
+  892  ls
+  893  cd 05.etcproject
+  894  ls
+  895  git pull
+  896  git status
+  897  git pull
+  898  git status
+  899  git pull
+  900  git push
+  901  git status
+  902  git pull
+  903  git push
+  904  git pull
+  905  git status
+  906  git push
+  907  git checkout feature/proj-108
+  908  git pull
+  909  git status
+  910  git pull
+  911  git checkout develop
+  912  git checkout feature/proj-108
+  913  git push
+  914  git pull
+  915  git status
+  916  git checkout develop
+  917  git pull
+  918  git checkout feature/proj-108
+  919  git pull
+  920  git checkout develop
+  921  git checkout feature/proj-108
+  922  git pull
+  923  git status
+  924  git pull
+  925  git status
+  926  git pull
+  927  git pull feature/proj-108
+  928  git pull
+  929  git status
+  930  git pull
+  931  git clean -df
+  932  git clean -dn
+  933  git status
+  934  git fetch release
+  935  git status
+  936  git reset --hard FETCH_HEAD
+  937  git status
+  938  git fetch --all
+  939  git status
+  940  git reset --hard origin/develop
+  941  git status
+  942  git pull
+  943  git status
+  944  git fetch --all
+  945  git reset --hard feature/proj-108
+  946  git pull
+  947  git status
+  948  git reset --hard origin/develop
+  949  git pull
+  950  git reset --dard feature/proj-108
+  951  git reset --hard feature/proj-108
+  952  git pull
+  953  git reset --hard origin/develop
+  954  git checkout origin/develop
+  955  git checkout feature/proj-108
+  956  git status
+  957  git pull
+  958  git status
+  959  git pull
+  960  git status
+  961  git checkout feature/PROJ-108
+  962  git status
+  963  git pull
+  964  git status
+  965  git fetch --all
+  966  git reset --hard feature/PROJ-108
+  967  git fetch --all
+  968  git reset --hard feature/PROJ-108
+  969  git status
+  970  git fetch --all
+  971  git reset --hard origin/develop
+  972  git status
+  973  git pull
+  974  git status
+  975  git remote show origin
+  976  git diff origin/develop
+  977  git status
+  978  git checkout feature/PROJ-108
+  979  git pull -s recursive -X theirs
+  980  git status
+  981  git status -s
+  982  git branch -vv
+  983  git co develop
+  984  git checkout develop
+  985  git branch -vv
+  986  git branch -D feature/PROJ-108
+  987  git branch -vv
+  988  git checkout --track origin/feature/PROJ-108
+  989  git branch -vv
+  990  git status -s
+  991  git update
+  992  git pull
+  993  cd ..
+  994  ls
+  995  cd 05.etcproject
+  996  ls
+  997  git status
+  998  git pull
+  999  git status
+ 1000  git update
+ 1001  git status
+ 1002  git pull
+ 1003  git status
+ 1004  git reset --hard HEAD
+ 1005  git status
+ 1006  git pull
+ 1007  cd ..
+ 1008  ls
+ 1009  cd 12.tmallmobilewebproject
+ 1010  git pull
+ 1011  cd ..
+ 1012  ls
+ 1013  cd 05.etcproject
+ 1014  ls
+ 1015  git pull
+ 1016  ping mobile.m.11st.co.kr
+ 1017  ping 211.188.220.73
+ 1018  ping mobile.m.11st.co.kr
+ 1019  exit
+ 1020  git pull
+ 1021  ping mobile.m.11st.co.kr
+ 1022  spring -version
+ 1023  spring --version
+ 1024  exit
+ 1025  ping mobile.m.11st.co.kr
+ 1026  git pull
+ 1027  git checkout bugfix/MPSR-32573
+ 1028  git status
+ 1029  git update
+ 1030  git status
+ 1031  git pull
+ 1032  git status
+ 1033  git checkout -f
+ 1034  git status
+ 1035  git pull
+ 1036  git status
+ 1037  git checkout bugfix/MPSR-32573
+ 1038  git status
+ 1039  git checkout -f
+ 1040  git pull
+ 1041  git status
+ 1042  git checkout bugfix/MPSR-32573
+ 1043  git pull
+ 1044  ㅊㅇ ..
+ 1045  cd ..
+ 1046  ls
+ 1047  nvm --version
+ 1048  curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.2/install.sh : bash
+ 1049  curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.2/install.sh | bash
+ 1050  nvm --version
+ 1051  exit
+ 1052  nvm --version
+ 1053  vim ~/.bash_profile
+ 1054  nvm install --lts
+ 1055  node -v
+ 1056  NVM_DIR
+ 1057  brew
+ 1058  brew update
+ 1059  brew install yarn
+ 1060  echo 
+ 1061  exho 'export PATH="$(yarn global bin):$PATH"' >> ~/.bash_profile
+ 1062  echo 'export PATH="$(yarn global bin):$PATH"' >> ~/.bash_profile
+ 1063  cat ~/.bash_profile
+ 1064  yarn --version
+ 1065  vim ~/.bash_profile
+ 1066  exit
+ 1067  yarn --version
+ 1068  brew update
+ 1069  yarn --version
+ 1070  brew install yarn
+ 1071  yarn --version
+ 1072  yarn global add create-react-app
+ 1073  create-react-app hello-react
+ 1074  ls -l
+ 1075  cd hello-react
+ 1076  ls
+ 1077  ls -l
+ 1078  yarn start
+ 1079  cd ~
+ 1080  ls
+ 1081  ls -l
+ 1082  pwd
+ 1083  cd ~
+ 1084  cd /
+ 1085  cd \\n
+ 1086  ls -l
+ 1087  ls 
+ 1088  ls -ls
+ 1089  cd h2
+ 1090  ls
+ 1091  cd src
+ 1092  ls
+ 1093  cd main
+ 1094  ls
+ 1095  cd ..
+ 1096  cd ~
+ 1097  ;s
+ 1098  ls
+ 1099  yarn start
+ 1100  ls
+ 1101  cd hello-react
+ 1102  yarn start
+ 1103  cd ..
+ 1104  cd 12.
+ 1105  cd 12.tmallmobilewebproject/
+ 1106  git pull
+ 1107  exit
+ 1108  ping www.11st.co.kr
+ 1109  exit
+ 1110  ping buy.m.11st.co.kr
+ 1111  ping m.11st.co.kr
+ 1112  exit
+ 1113  ping m.11st.co.kr
+ 1114  exit
+ 1115  ping stage.11pay.co.kr
+ 1116  ping mobile.m.11st.co.kr
+ 1117  ping m.11st.co.kr
+ 1118  ping stage.11pay.co.kr
+ 1119  cd ..
+ 1120  ls
+ 1121  cd 12.mobileweb-static
+ 1122  ls
+ 1123  git status
+ 1124  git pull
+ 1125  git status
+ 1126  cd ..
+ 1127  ls
+ 1128  cd 01.tmalldomainproject
+ 1129  history || grep checkout
+ 1130  history >> grep checkout
+ 1131  ps -ef grep java
+ 1132  history grep checkout
+ 1133  history >> grep checkout
+ 1134  history
+ 1135  clear
+ 1136  git checkout master
+ 1137  git pull
+ 1138  git status
+ 1139  git update
+ 1140  git status
+ 1141  git pull
+ 1142  git status
+ 1143  cd ..
+ 1144  ls
+ 1145  cd 12.tmallmobilewebproject
+ 1146  ls
+ 1147  git status
+ 1148  ls
+ 1149  cd app-tlounge
+ 1150  ls
+ 1151  git status
+ 1152  git pull
+ 1153  git status
+ 1154  cd ..
+ 1155  ls
+ 1156  cd 05.etcproject
+ 1157  ls
+ 1158  git status
+ 1159  exit
+ 1160  resetpassword
+ 1161  sudo resetpassword
+ 1162  sudo
+ 1163  sudo resetpassword
+ 1164  exit
+ 1165  history
+ 1166  yarn start
+ 1167  yarn
+ 1168  uarn start
+ 1169  yarn start
+ 1170  cd ~
+ 1171  ls
+ 1172  cd hello-react
+ 1173  ls
+ 1174  yarn start
+ 1175  git status
+ 1176  git update
+ 1177  git pull
+ 1178  cd ..
+ 1179  ls
+ 1180  cd 01.tmalldomainproject
+ 1181  git pull
+ 1182  cd ..
+ 1183  ls
+ 1184  cd 05.etcproject
+ 1185  ls
+ 1186  git pull
+ 1187  cd ..
+ 1188  ls
+ 1189  cd 12.mobileweb-static
+ 1190  git pull
+ 1191  cd ..
+ 1192  ls
+ 1193  cd app-tlounge
+ 1194  history
+ 1195  git checkout master
+ 1196  git pull
+ 1197  ls
+ 1198  git status
+ 1199  cd ..
+ 1200  ;ls
+ 1201  ls
+ 1202  cd app-order
+ 1203  ls
+ 1204  git checkout master
+ 1205  git pull
+ 1206  ㅊㅇ ..
+ 1207  cd ..
+ 1208  ls
+ 1209  git pull
+ 1210  ping m.shop.tworld.co.kr
+ 1211  telnet
+ 1212  telnet 211.188.179.130 80
+ 1213  telnet 211.188.179.130 443
+ 1214  traceroute -T -p 80 m.shop.tworld.co.kr
+ 1215  traceroute -p 80 m.shop.tworld.co.kr
+ 1216  traceroute -p 80 211.188.179.130
+ 1217  exit
+ 1218  echo JAVA_HOME
+ 1219  echo @JAVA_HOME
+ 1220  echo @JAVAç c_HOME
+ 1221  PATH
+ 1222  ECHO PATH
+ 1223  cd /
+ 1224  cd ~/local
+ 1225  ls
+ 1226  cd Applications
+ 1227  ls
+ 1228  cd ..
+ 1229  ls
+ 1230  cd dev
+ 1231  ls
+ 1232  cd ..
+ 1233  ls
+ 1234  cd bin
+ 1235  ls
+ 1236  git pull
+ 1237  exit
+ 1238  git pull
+ 1239  ls
+ 1240  cd ..
+ 1241  ls
+ 1242  history
+ 1243  history >> cmd_history.txt
+ 1244  cd /etc
+ 1245  ls
+ 1246  cd ~/IdeaProject/11st
+ 1247  ls
+ 1248  sudo apachectl restart
+ 1249  apachectl restart
+ 1250  sudo apachectl restart
+ 1251  cd /usr/libexec/apache2
+ 1252  cat mod_jk.so
+ 1253  ping m.11st.co.kr
+ 1254  tail -f mobileweb.11st.co.kr
+ 1255  tail -f mobileweb.11st.co.kr-*
+ 1256  sudo apachectl configtest
+ 1257  cd ~/IdeaProject/11st
+ 1258  ls
+ 1259  git clone ssh://git@bitbucket.11stcorp.com:7999/stprd/02.tmallfrontproject.git
+ 1260  ping mobile.m.11st.co.kr
+ 1261  history
+ 1262  sudo apachectl stop
+ 1263  ping mobile.m.11st.co.kr
+ 1264  history
+ 1265  yarn start
+ 1266  ls
+ 1267  git clone 
+ 1268  git clone  ✘ cjloveu@11st-mac-51  ~/IdeaProject/11st/app-tlounge   master ●  git clone 
+ 1269  git clone ssh://git@bitbucket.11stcorp.com:7999/tf11/vine-app-dp.git
+ 1270  ls
+ 1271  cd 
+ 1272  cd vine-app-dp
+ 1273  ls
+ 1274  ls -l
+ 1275  pwd
+ 1276  cd ~cjloveu/IdeaProject
+ 1277  ls
+ 1278  cd 11st
+ 1279  ls
+ 1280  cd app-tlounge
+ 1281  ls
+ 1282  cd vine-app-dp
+ 1283  ls
+ 1284  rm -rf
+ 1285  ls
+ 1286  rm -rf *
+ 1287  ls
+ 1288  cd ..
+ 1289  ls
+ 1290  rm vine-app-dp
+ 1291  rm rf vine-app-dp
+ 1292  ls
+ 1293  del vine-app-dp
+ 1294  cd ..
+ 1295  ls
+ 1296  git clone ssh://git@bitbucket.11stcorp.com:7999/tf11/vine-app-dp.git
+ 1297  cd vine-app-dp
+ 1298  git fetch
+ 1299  git checkout master
+ 1300  git pull
+ 1301  git status
+ 1302  ./gradlew checkstyleMain
+ 1303  ./gradlew bootRepackage
+ 1304  echo $JAVA_HOME
+ 1305  exit
+ 1306  cd ..
+ 1307  cd 11st
+ 1308  ;s
+ 1309  ls
+ 1310  git clone ssh://git@bitbucket.11stcorp.com:7999/tf11/vine-app-vertical.git
+ 1311  ls
+ 1312  cd vind-app-vertical
+ 1313  ls
+ 1314  cd vine-app-vertical/
+ 1315  ls
+ 1316  git status
+ 1317  git pull
+ 1318  git fetch
+ 1319  git checkout feature/MPSR-35654
+ 1320  git pull
+ 1321  npm
+ 1322  npm install -g typescript
+ 1323  ls
+ 1324  cd /
+ 1325  ls
+ 1326  cd Applications
+ 1327  ls
+ 1328  cd ..
+ 1329  ls
+ 1330  cd bin
+ 1331  ls
+ 1332  tsc -v
+ 1333  ls
+ 1334  cd ..
+ 1335  ls
+ 1336  cd home
+ 1337  ls
+ 1338  cd ..
+ 1339  cd Us
+ 1340  cd Users
+ 1341  ls
+ 1342  cd cjloveu
+ 1343  ls
+ 1344  ls -l
+ 1345  ls
+ 1346  ls -p
+ 1347  ls -?
+ 1348  ls --?
+ 1349  ls -help
+ 1350  cd IdeaProject
+ 1351  ls
+ 1352  mkdir Develop
+ 1353  cd Delelop
+ 1354  ls
+ 1355  cd Develop
+ 1356  cd ..
+ 1357  ls
+ 1358  rm
+ 1359  rm Develop
+ 1360  ls
+ 1361  rename
+ 1362  mv Develop develop
+ 1363  ls
+ 1364  cd develop
+ 1365  ls
+ 1366  mkdir typescript
+ 1367  cd typescript
+ 1368  ls
+ 1369  vi person.ts
+ 1370  tsc person
+ 1371  ls
+ 1372  vi person.ts
+ 1373  tsc person
+ 1374  tscat person.js
+ 1375  ls
+ 1376  cat person.js
+ 1377  tsc person -t es6
+ 1378  cat person.js
+ 1379  node person
+ 1380  ls -l
+ 1381  tsc person student -t es6
+ 1382  /Users/cjloveu/IdeaProject/develop/typescript/student.ts
+ 1383  tsc person student -t es6
+ 1384  ls -l
+ 1385  node student
+ 1386  tsc person student
+ 1387  node student
+ 1388  tsc person student -t es6
+ 1389  ls
+ 1390  cat student.js
+ 1391  tsc student
+ 1392  node student
+ 1393  tsc student -t es6
+ 1394  node student
+ 1395  tsc student
+ 1396  node student
+ 1397  cat student.js
+ 1398  tsc student person
+ 1399  ls -l
+ 1400  node person
+ 1401  node student
+ 1402  tsc student --watch
+ 1403  node student
+ 1404  tsc reverse.ts
+ 1405  node reverse
+ 1406  tsc reverse.ts -t es6
+ 1407  node reverse
+ 1408  tsc reverse.ts -t es6
+ 1409  node reverse
+ 1410  exit
+ 1411  tsc reverse.ts -t es6
+ 1412  node reverse
+ 1413  tsc reverse.ts -t es6
+ 1414  node reverse
+ 1415  tsc reverse.ts -t es6
+ 1416  node reverse
+ 1417  tsc closer.js
+ 1418  tsc closer.ts
+ 1419  node closer
+ 1420  tsc closer.ts -t es6
+ 1421  node closer
+ 1422  tsc person.ts
+ 1423  node person
+ 1424  node student
+ 1425  tsc person.ts -t es6
+ 1426  tsc person
+ 1427  node student
+ 1428  tsc person
+ 1429  node student
+ 1430  tsc person
+ 1431  node student
+ 1432  tsc person
+ 1433  node student
+ 1434  tsc person
+ 1435  node student
+ 1436  cd ..
+ 1437  ls
+ 1438  git clone ssh://git@bitbucket.11stcorp.com:7999/stprd/ommobile-js.git
+ 1439  git pull
+ 1440  cd ..
+ 1441  ls
+ 1442  cd ES6
+ 1443  ls
+ 1444  cd ..
+ 1445  ls
+ 1446  cd es6
+ 1447  ls
+ 1448  history
+ 1449  tsc arrow.ts
+ 1450  node arrow
+ 1451  tsc bindThis -t es6
+ 1452  node bindThis
+ 1453  tsc bindThis -t es
+ 1454  tsc bindThis -t es6
+ 1455  node bindThis
+ 1456  tsc bindThis -t es6
+ 1457  node bindThis
+ 1458  tsc -t es6
+ 1459  tsc bindThis -t es6
+ 1460  node bindThis
+ 1461  tsc bindThis -t es6
+ 1462  node bindThis
+ 1463  cd ..
+ 1464  ls
+ 1465  cd es6
+ 1466  ls
+ 1467  cd ..
+ 1468  ls
+ 1469  cd javascript
+ 1470  ls
+ 1471  cd array
+ 1472  ls
+ 1473  tsc reduce
+ 1474  node reduce
+ 1475  tsc reduce
+ 1476  node reduce
+ 1477  tsc reduce
+ 1478  node reduce
+ 1479  tsc reduce
+ 1480  node reduce
+ 1481  ls
+ 1482  cd /Users/cjloveu/WindowsData
+ 1483  ls
+ 1484  cd 2018_SKP/Project
+ 1485  ls
+ 1486  cd SKT온라인가입자확대방안
+ 1487  ls
+ 1488  ls -l
+ 1489  rm consoleFull.log
+ 1490  ls -l
+ 1491  tail -f 12274_consoleFull.html
+ 1492  tail -200 12274_consoleFull.html
+ 1493  exit
+ 1494  git pull
+ 1495  pwd
+ 1496  cd ..
+ 1497  ls
+ 1498  cd \\n
+ 1499  cd /
+ 1500  ls
+ 1501  cd /{users}
+ 1502  cd /{user}
+ 1503  cd $user
+ 1504  pwd
+ 1505  ls
+ 1506  ls -l
+ 1507  cd IdeaProject
+ 1508  pwd
+ 1509  ls
+ 1510  cd develop
+ 1511  ls
+ 1512  mb SpringBoot springBoot
+ 1513  ls
+ 1514  mv SpringBoot springBoot
+ 1515  cd springBoot
+ 1516  ls
+ 1517  git clone https://github.com/Justin-ad-Park/Spring-Boot-Community-Web.git
+ 1518  ls
+ 1519  git status
+ 1520  git commit
+ 1521  git commit -a
+ 1522  git push
+ 1523  git status
+ 1524  git push
+ 1525  git status
+ 1526  git add
+ 1527  git commit -a
+ 1528  git status
+ 1529  git push
+ 1530  git status
+ 1531  git push
+ 1532  git commit
+ 1533  git commit -a
+ 1534  git status
+ 1535  git push
+ 1536  exit
+ 1537  git pull
+ 1538  gradle checkstyleMain
+ 1539  git history | grep check
+ 1540  history 
+ 1541  history |grep check
+ 1542  ./gradle checkstyleMain
+ 1543  gradle checkstyleMain
+ 1544  ./gradlew checkstyleMain
+ 1545  git pull
+ 1546  cd /
+ 1547  ls
+ 1548  pwd
+ 1549  cd %users%
+ 1550  cd $users
+ 1551  pwd
+ 1552  ls
+ 1553  cd .sqldeveloper/ls
+ 1554  cd .sqldeveloper
+ 1555  ls
+ 1556  cd system17.2.0.188.1159
+ 1557  ls
+ 1558  pwd
+ 1559  cd o.sqldeveloper/projects
+ 1560  ;s
+ 1561  pwd
+ 1562  ls
+ 1563  exit
+ 1564  git status
+ 1565  git checkout master
+ 1566  git stash
+ 1567  git status
+ 1568  git checkout origin/Master
+ 1569  git checkout master
+ 1570  git pull
+ 1571  git status
+ 1572  git pull
+ 1573  git rm --cached application-local.yml
+ 1574  git rm
+ 1575  git rm --cached src/main/resources/application-local.yml
+ 1576  git status
+ 1577  git pull
+ 1578  git diff
+ 1579  git checkout feature/MPSR-35654
+ 1580  config --list
+ 1581  git config --list
+ 1582  git status
+ 1583  git add src/main/resources/application-local.yml
+ 1584  git status
+ 1585  git update-index --skip-worktree src/main/resources/application-local.yml
+ 1586  git status
+ 1587  git pull
+ 1588  git checkout feature/MPSR-35654
+ 1589  git stash list
+ 1590  git revert mastr
+ 1591  git revert master
+ 1592  git reset master
+ 1593  git status
+ 1594  git checkout feature/MPSR-35654
+ 1595  gir reset eabcefb
+ 1596  git reset eabcefb
+ 1597  git status
+ 1598  git stash "local.yml"
+ 1599  git stash local.yml
+ 1600  git stash local_yml
+ 1601  git stash list
+ 1602  git stash 
+ 1603  git status
+ 1604  git stash list
+ 1605  git checkout feature/MPSR-35654
+ 1606  git status
+ 1607  git pull
+ 1608  git status
+ 1609  git stash pop
+ 1610  git stash list
+ 1611  git stash pop
+ 1612  git pull
+ 1613  git status
+ 1614  git pull
+ 1615  git status
+ 1616  history
+ 1617  ls
+ 1618  pwd
+ 1619  cd IdeaProject
+ 1620  ls
+ 1621  cd develop
+ 1622  ls
+ 1623  cd springBoot
+ 1624  ls
+ 1625  cd Spring-Boot-Community-Web
+ 1626  git clone https://github.com/Justin-ad-Park/Spring-Boot-Community-Web.git
+ 1627  cd ..
+ 1628  ls
+ 1629  git clone https://github.com/Justin-ad-Park/Spring-Boot-Community-Web.git
+ 1630  git status
+ 1631  git stash
+ 1632  git stash list
+ 1633  git status
+ 1634  git checkout 201811_EHCACHE
+ 1635  git checkout feature/201811_EHCACHE
+ 1636  git stash pop
+ 1637  git status
+ 1638  git check feature/2018_EHCACHE
+ 1639  git checkout feature/2018_EHCACHE
+ 1640  git status
+ 1641  git stash save ehcache
+ 1642  git stash list
+ 1643  git status
+ 1644  git checkout feature/201811_EHCACHE
+ 1645  git status
+ 1646  git stash list
+ 1647  git stash apply stash@{0}
+ 1648  git sttus
+ 1649  git status
+ 1650  git pull
+ 1651  gradle help --task :init
+ 1652  gradle task
+ 1653  gradle hellp
+ 1654  gradle hello
+ 1655  gradle run
+ 1656  gradle tasks
+ 1657  gradle dependencies
+ 1658  git status
+ 1659  git pull
+ 1660  git status
+ 1661  git merge hotfix/2018.11.15.VTC.01
+ 1662  git stash save LocalDBConfig
+ 1663  git status
+ 1664  git checkout hotfix/2018.11.15.VTC.01
+ 1665  git pull
+ 1666  git status
+ 1667  git stash pop
+ 1668  git status
+ 1669  git push
+ 1670  git pull
+ 1671  git status
+ 1672  git stash --help
+ 1673  git stash
+ 1674  git status
+ 1675  git checkout bugfix/MPSR-36772
+ 1676  git checkout MPSR-36772
+ 1677  git status
+ 1678  git pull
+ 1679  git stash apply
+ 1680  git status
+ 1681  cd ..
+ 1682  ls
+ 1683  git clone https://github.com/gibsong/ehcache-jsr107-spring
+ 1684  cd ..
+ 1685  ls
+ 1686  cd ..
+ 1687  ls
+ 1688  mkdir interviewer
+ 1689  cd interviewer
+ 1690  ls
+ 1691  git clone https://github.com/schbugkiller/project1/tree/master/project_noside
+ 1692  git clone 
+ 1693  git clone https://github.com/schbugkiller/project1
+ 1694  git pull
+ 1695  serialver Address
+ 1696  git status
+ 1697  cd ..
+ 1698  ls
+ 1699  cd ..
+ 1700  ls
+ 1701  cd develop
+ 1702  ls
+ 1703  git clone https://github.com/Justin-ad-Park/firstapp.git
+ 1704  ls
+ 1705  cd firstapp
+ 1706  ls
+ 1707  brew update
+ 1708  history
+ 1709  brew search tomcat
+ 1710  brew install tomcat
+ 1711  brew install gcc
+ 1712  xcode-select --install
+ 1713  brew install tomcat
+ 1714  cd ..
+ 1715  ls
+ 1716  cd ..
+ 1717  ls
+ 1718  cd 11st
+ 1719  ls
+ 1720  cd 12.tmallmobilewebproject
+ 1721  ls
+ 1722  git checkout 
+ 1723  git checkout bugfix/MPSR-37203
+ 1724  git status
+ 1725  git pull
+ 1726  git status
+ 1727  git reset HEAD
+ 1728  git status
+ 1729  git pull
+ 1730  git status
+ 1731  git checkout 
+ 1732  git reset --hard origin
+ 1733  git status
+ 1734  git pull
+ 1735  git checkout feature/echo-mvc
+ 1736  git pull
+ 1737  ls
+ 1738  cd src
+ 1739  ls
+ 1740  cd main
+ 1741  ls
+ 1742  git status
+ 1743  git checkout bugfix/MPSR-37203
+ 1744  git status
+ 1745  git pull
+ 1746  git status
+ 1747  git pull
+ 1748  git status
+ 1749  git checkout webapps/WEB-INF/action-servlet.xml
+ 1750  git checkout 
+ 1751  git checkout master
+ 1752  git stash
+ 1753  git status
+ 1754  git checkout master
+ 1755  git pull
+ 1756  cd ..
+ 1757  ls
+ 1758  cd 01.tmalldomainproject
+ 1759  ls
+ 1760  git pull
+ 1761  git status
+ 1762  cd ..
+ 1763  ls
+ 1764  cd 12.tmallmobilewebproject
+ 1765  ls
+ 1766  git pull
+ 1767  git stash
+ 1768  git pull
+ 1769  git stash list
+ 1770  git pop
+ 1771  git stash apply
+ 1772  git status
+ 1773  cd ..
+ 1774  ls
+ 1775  cd 01.tmalldomainproject
+ 1776  ls
+ 1777  git status
+ 1778  cd ..
+ 1779  ls
+ 1780  cd 12.tmallmobilewebproject
+ 1781  git status
+ 1782  git pull
+ 1783  git status
+ 1784  cd /
+ 1785  ls
+ 1786  cd tmp
+ 1787  ls
+ 1788  cd ..
+ 1789  ls
+ 1790  cd log
+ 1791  ls
+ 1792  cd web
+ 1793  ls
+ 1794  cd ..
+ 1795  ls
+ 1796  mkdir spring
+ 1797  ls
+ 1798  sudo mkdir spring
+ 1799  ls
+ 1800  cd web
+ 1801  ls
+ 1802  cd ..
+ 1803  ls
+ 1804  ls -l
+ 1805  cd ..
+ 1806  ls -l
+ 1807  cd log
+ 1808  ls
+ 1809  sudo mkdir spring
+ 1810  ls
+ 1811  cd /
+ 1812  cd log
+ 1813  ls
+ 1814  ls -l
+ 1815  cd web
+ 1816  ls
+ 1817  ls -l
+ 1818  cd ..
+ 1819  ls
+ 1820  cd spring
+ 1821  ls
+ 1822  cd ..
+ 1823  ls
+ 1824  ls -l
+ 1825  chmod 777 spring
+ 1826  sudo chmod 777 spring
+ 1827  ls
+ 1828  cd spring
+ 1829  ls
+ 1830  ls -l
+ 1831  tail -f firstapp-log.log
+ 1832  ls
+ 1833  ls -l
+ 1834  ls
+ 1835  cat firstapp-log.log
+ 1836  ls
+ 1837  cd ..
+ 1838  ls
+ 1839  sudo chmod 711 spring
+ 1840  ls -l
+ 1841  sudo chmod 744 spring
+ 1842  ls
+ 1843  ls -l
+ 1844  ls
+ 1845  cd spring
+ 1846  ls
+ 1847  cd spring
+ 1848  ls
+ 1849  cd spring
+ 1850  pwd
+ 1851  sudo chmod 744 spring
+ 1852  cd spring
+ 1853  ls
+ 1854  sudo chmod 777 spring
+ 1855  cd spring
+ 1856  ls
+ 1857  rm firstapp-log.log
+ 1858  ls -l
+ 1859  tail -f firstapp-log.log
+ 1860  cat firstapp-log.log
+ 1861  ls
+ 1862  cat firstapp-log.log
+ 1863  ls
+ 1864  rm firstapp-log.log
+ 1865  ls -l
+ 1866  cat firstapp-log.log
+ 1867  ls -l
+ 1868  rm firstapp-log.log
+ 1869  ls -l
+ 1870  cat firstapp-log.log
+ 1871  ls -ls
+ 1872  cat firstapp-log.log
+ 1873  rm firstapp-log.log
+ 1874  cat firstapp-log.log
+ 1875  ls -l
+ 1876  cat firstapp-log.log
+ 1877  rm firstapp-log.log
+ 1878  ls -l
+ 1879  cat firstapp-log.log
+ 1880  ls
+ 1881  cat firstapp-log.log
+ 1882  rm firstapp-log.log
+ 1883  ls
+ 1884  cat firstapp-log.log
+ 1885  git status
+ 1886  git getch origin
+ 1887  git status
+ 1888  git cehckout bugfix/MPSR-36161_1
+ 1889  git checkout bugfix/MPSR-36161_1
+ 1890  git pull
+ 1891  cd /
+ 1892  ls
+ 1893  cd Users
+ 1894  ls
+ 1895  cd cjloveu
+ 1896  ls
+ 1897  cd IdeaProject
+ 1898  ls
+ 1899  cd 11st
+ 1900  ls
+ 1901  git clone ssh://git@bitbucket.11stcorp.com:7999/stprd/13.tmallopenapiproject.git
+ 1902  ls
+ 1903  cd 13.tmallopenapiproject
+ 1904  git status
+ 1905  cd .
+ 1906  cd ..
+ 1907  ls
+ 1908  cd develop/firstapp
+ 1909  git status
+ 1910  git commit src/main/resources/logback.xml --message "Configuration log"
+ 1911  git status
+ 1912  git push
+ 1913  git status
+ 1914  git pull
+ 1915  git push
+ 1916  git status
+ 1917  git add .
+ 1918  git status
+ 1919  git commit --message "Refactor stream to stream.test"
+ 1920  git push
+ 1921  git commit --message "Refactor stream to stream.test"
+ 1922  git add src/main/resources/logback.xml
+ 1923  git commit --message "Refactor stream to stream.test"
+ 1924  git push
+ 1925  git status
+ 1926  git merge master
+ 1927  git checkout master
+ 1928  git pull
+ 1929  git status
+ 1930  git checkout META-INF
+ 1931  git status
+ 1932  put checkout
+ 1933  git status
+ 1934  git pull
+ 1935  ping i.011st.com
+ 1936  git status
+ 1937  git checkout master
+ 1938  git pull
+ 1939  git status
+ 1940  git checkout feature/echo-mvc
+ 1941  git pull
+ 1942  git checkout master
+ 1943  git merge feature/echo-mvc
+ 1944  git status
+ 1945  git push
+ 1946  git status
+ 1947  git checkout META-INF
+ 1948  git status
+ 1949  git checkout META-INF
+ 1950  git checkout META-INF/
+ 1951  git status
+ 1952  ls
+ 1953  tail -f
+ 1954  tail -f firstapp-log.log
+ 1955  ls -l
+ 1956  ls -al
+ 1957  exit
+ 1958  git status
+ 1959  git pull
+ 1960  :q!
+ 1961  git status
+ 1962  git checkout webapps/META-INF/context.xml
+ 1963  git status
+ 1964  git reset HEAD webapps/META-INF/context.xml
+ 1965  git fetch --all
+ 1966  :!
+ 1967  git reset --hard orgin/master
+ 1968  git reset --hard master
+ 1969  git status
+ 1970  git checkout webapps/META-INF/context.xml
+ 1971  lsof -nP -i4TCP | grep LISTEN
+ 1972  git status
+ 1973  git checkout src/main/resources/static/html/error/error.html
+ 1974  git status
+ 1975  httpd start
+ 1976  cd /etc
+ 1977  ls
+ 1978  brew install
+ 1979  brew list
+ 1980  ls
+ 1981  cd apache2
+ 1982  ls
+ 1983  cat httpd.conf
+ 1984  cd other
+ 1985  ls
+ 1986  cd ..
+ 1987  ls
+ 1988  cat workers.
+ 1989  cat workers.properties
+ 1990  ls -l
+ 1991  cat httpd.conf  grep jk_module
+ 1992  vi httpd.conf
+ 1993  ls
+ 1994  ls -l
+ 1995  cat workers.properties
+ 1996  httpd -help
+ 1997  httpd -k start
+ 1998  cat /private/var/log/apache2/
+ 1999  ls
+ 2000  brew install
+ 2001  brew list
+ 2002  cd /etc
+ 2003  ls
+ 2004  ls \\nls
+ 2005  ls /
+ 2006  ls \\nls
+ 2007  ls
+ 2008  cd~
+ 2009  cd \\n
+ 2010  ls
+ 2011  cd usr
+ 2012  ls
+ 2013  cd /sur
+ 2014  ls
+ 2015  cd usr
+ 2016  ls
+ 2017  pwd
+ 2018  cd \\n
+ 2019  pwd
+ 2020  cd /
+ 2021  pwd
+ 2022  cd usr/local/Cellar
+ 2023  ls
+ 2024  ls -l
+ 2025  cd tomcat7
+ 2026  ls
+ 2027  cd 7.0.82
+ 2028  ls
+ 2029  cd libexec
+ 2030  ls
+ 2031  cd conf
+ 2032  ls
+ 2033  cat context.xml
+ 2034  ls
+ 2035  cd ..
+ 2036  ls
+ 2037  cd bin
+ 2038  ls
+ 2039  catalina ç
+ 2040  ls
+ 2041  ./startup.sh
+ 2042  s
+ 2043  lsof -nP -i4TCP | grep LISTEN
+ 2044  ls
+ 2045  ./shutdown.sh
+ 2046  lsof -nP -i4TCP | grep LISTEN
+ 2047  ls
+ 2048  cd ..
+ 2049  ls
+ 2050  cd conf
+ 2051  ls
+ 2052  cd Catalina
+ 2053  ls
+ 2054  cd localhost
+ 2055  ls
+ 2056  cd ..
+ 2057  ls
+ 2058  cd ..
+ 2059  ls
+ 2060  cd /etc
+ 2061  ls
+ 2062  cd httpd
+ 2063  ls
+ 2064  cd apache2
+ 2065  ls
+ 2066  cp httpd.conf httpd.conf.20181204
+ 2067  sudo cp httpd.conf httpd.conf.20181204
+ 2068  ls -l
+ 2069  cat httpd.conf
+ 2070  vi httpd.conf
+ 2071  sudo vi httpd.conf
+ 2072  cd \\n
+ 2073  cd /
+ 2074  ls
+ 2075  cd usr
+ 2076  ls
+ 2077  cd local
+ 2078  ls
+ 2079  httpd -k start
+ 2080  ls
+ 2081  cd Cellar
+ 2082  ls
+ 2083  cd tomcat
+ 2084  ls
+ 2085  cd ..
+ 2086  cd tomcat7
+ 2087  ls
+ 2088  cd 7.0.82
+ 2089  ls
+ 2090  cd libexec
+ 2091  ls
+ 2092  cd bin
+ 2093  ls
+ 2094  ./startup.sh
+ 2095  cd $CATALINA_BASE
+ 2096  pwd
+ 2097  cd conf
+ 2098  cd /usr/local/Cellar/tomcat7
+ 2099  ls
+ 2100  cd 7.0.82
+ 2101  ls
+ 2102  cd libexec
+ 2103  ls
+ 2104  cd conf
+ 2105  ls
+ 2106  cat catalina.properties
+ 2107  ls
+ 2108  cat server.xml
+ 2109  ls
+ 2110  cp server.xml server.xml.20181205
+ 2111  ls
+ 2112  vi server.xml
+ 2113  cd /usr/
+ 2114  ls
+ 2115  cd local/Cellar/tomcat7/7.0.82
+ 2116  ls
+ 2117  cd libexec
+ 2118  ls
+ 2119  cd bin
+ 2120  ls
+ 2121  ./shutdown.sh
+ 2122  ./startup.sh
+ 2123  vi server.xml
+ 2124  pwd
+ 2125  ifconfig
+ 2126  ls
+ 2127  vi server.xml
+ 2128  httpd -k restart
+ 2129  sudo httpd -k restart
+ 2130  ls
+ 2131  brew list
+ 2132  httpd -k stop
+ 2133  ls
+ 2134  lsof -nP -i4TCP | grep LISTEN
+ 2135  lsof -nP -i4TCP | grep LISTEN
+ 2136  D
+ 2137  ls
+ 2138  ./shutdown.sh
+ 2139  httpd -k start
+ 2140  lsof -nP -i4TCP | grep LISTEN
+ 2141  httpd -k restart
+ 2142  httpd -k start
+ 2143  netstat
+ 2144  netstat -lnpt|grep":8080"
+ 2145  netstat -lnpt
+ 2146  netstat -lnp
+ 2147  netstat -ln
+ 2148  netstat -ln|grep ":80"
+ 2149  netstat -l
+ 2150  history |grep 8080
+ 2151  history grep 8080
+ 2152  history
+ 2153  history grep 80
+ 2154  history | grep 8080
+ 2155  httpd -k start
+ 2156  ls
+ 2157  cat httpd.conf
+ 2158  vi httpd.cponf
+ 2159  vi httpd.conf
+ 2160  httpd -k start
+ 2161  vi httpd.conf
+ 2162  sudo vi httpd.conf
+ 2163  httpd -k start
+ 2164  sudo vi httpd.conf
+ 2165  httpd -k start
+ 2166  cd /private
+ 2167  ls
+ 2168  cd var
+ 2169  ls
+ 2170  cd log
+ 2171  ls
+ 2172  cd apache2
+ 2173  ls
+ 2174  httpd -k start
+ 2175  ls -al
+ 2176  cd error_log
+ 2177  ls -l
+ 2178  ls
+ 2179  sudo httpd -k start
+ 2180  -rw-r--r--  1 root  wheel   61 Dec  4 15:56 access_log
+ 2181  \n\n:
+ 2182  \n
+ 2183  lsof -nP -i4TCP | grep LISTEN
+ 2184  sudo httpd -k restart
+ 2185  lsof -nP -i4TCP | grep LISTEN
+ 2186  ls
+ 2187  cd /etc
+ 2188  ls
+ 2189  cd apache2
+ 2190  ls
+ 2191  cat httpd.conf
+ 2192  A
+ 2193  ls
+ 2194  ls -l
+ 2195  cd /usr
+ 2196  ls
+ 2197  cd libexec
+ 2198  ls
+ 2199  cd apache2
+ 2200  ls
+ 2201  pwd
+ 2202  ls
+ 2203  pwd
+ 2204  cd \\n
+ 2205  cd /
+ 2206  ls
+ 2207  cp mod_jk.so /usr/libexec/apache2
+ 2208  sudo cp mod_jk.so /usr/libexec/apache2
+ 2209  ls
+ 2210  rm mod_jk.so
+ 2211  sudo rm mod_jk.so
+ 2212  ls
+ 2213  sudo vi /etc/apache2/httpd.conf
+ 2214  cd /log
+ 2215  ls
+ 2216  mkdir apache2
+ 2217  sudo mkdir apache2
+ 2218  ls
+ 2219  httpd -k restart
+ 2220  httpd -k stop
+ 2221  httpd -k start
+ 2222  vi httpd.conf
+ 2223  sudo vi httpd.conf
+ 2224  httpd -k start
+ 2225  sudo httpd -k start
+ 2226  ls
+ 2227  sudo vi httpd.conf
+ 2228  ls
+ 2229  cd extra
+ 2230  ls
+ 2231  vi httpd-vhosts.conf
+ 2232  pwd
+ 2233  cd /private/etc/apache2/extra
+ 2234  ls
+ 2235  cat httpd-vhosts.conf
+ 2236  sudo vi httpd-vhosts.conf
+ 2237  ls
+ 2238  sudo vi httpd-vhost.conf
+ 2239  sudo vi httpd-vhosts.conf
+ 2240  sudo vi /etc/apache2/workers.properties
+ 2241  sudo vi /etc/apache2/uriworkermap.properties
+ 2242  sudo vi /etc/apache2/workers.properties
+ 2243  sudo vi /etc/apache2/uriworkermap.properties
+ 2244  sudo vi /etc/apache2/extra/httpd-vhosts.conf
+ 2245  sudo vi /etc/apache2/uriworkermap.properties
+ 2246  sudo httpd -k restart
+ 2247  sudo vi /etc/apache2/extra/httpd-vhosts.conf
+ 2248  sudo httpd -k restart
+ 2249  sudo vi /etc/apache2/extra/httpd-vhosts.conf
+ 2250  sudo httpd -k restart
+ 2251  sudo vi /etc/apache2/extra/httpd-vhosts.conf
+ 2252  cd /etc/apache2/logs
+ 2253  ls
+ 2254  sudo vi /etc/apache2/extra/httpd-vhosts.conf
+ 2255  cd /private/var/log/apache2
+ 2256  ;s
+ 2257  ls
+ 2258  cd /etc/apache2/extra
+ 2259  ls
+ 2260  cp httpd-vhosts.conf httpd-vhosts.conf.20181205
+ 2261  sudo cp httpd-vhosts.conf httpd-vhosts.conf.20181205
+ 2262  sudo vi /etc/apache2/extra/httpd-vhosts.conf
+ 2263  sudo httpd -k stop
+ 2264  sudo vi /private/etc/apache2/httpd.conf
+ 2265  sudo httpd -k stop
+ 2266  sudo vi /etc/apache2/extra/httpd-vhosts.conf
+ 2267  sudo httpd -k stop
+ 2268  sudo vi /private/etc/apache2/httpd.conf
+ 2269  sudo httpd -k stop
+ 2270  cd /private/etc/apache2
+ 2271  ls
+ 2272  sudo httpd.conf
+ 2273  sudo vi httpd.conf
+ 2274  sudo httpd -k stop
+ 2275  sudo vi /etc/apache2/extra/httpd-vhosts.conf
+ 2276  sudo httpd -k stop
+ 2277  ls
+ 2278  cp httpd.conf httpd.conf.20181204.bk
+ 2279  sudo cp httpd.conf httpd.conf.20181204.1
+ 2280  sudo mv httpd.conf.20181204 httpd.conf
+ 2281  ls -l
+ 2282  sudo httpd -k stop
+ 2283  ls
+ 2284  cp httpd.conf httpd.conf.20181204
+ 2285  sudo vi httpd.conf
+ 2286  sudo httpd -k stop
+ 2287  sudo vi httpd.conf
+ 2288  sudo httpd -k stop
+ 2289  sudo httpd -k start
+ 2290  git status
+ 2291  cd ..
+ 2292  ls
+ 2293  cd 01.tmalldomainproject
+ 2294  ls
+ 2295  git status
+ 2296  git fetch
+ 2297  git pull
+ 2298  git status
+ 2299  exit
+ 2300  git status
+ 2301  vi /etc/apache2/workers.properties
+ 2302  vi /etc/apache2/uriworkermap.properties
+ 2303  sudo vi /etc/apache2/uriworkermap.properties
+ 2304  ls
+ 2305  httpd -k restart
+ 2306  sudo httpd -k stop
+ 2307  sudo httpd -k start
+ 2308  sudo vi /private/etc/apache2/extra/httpd-vhosts.conf
+ 2309  sudo httpd -k stop
+ 2310  sudo httpd -k start
+ 2311  sudo httpd -k stop
+ 2312  sudo httpd -k start
+ 2313  sudo httpd -k stop
+ 2314  lsof -nP -i4TCP | grep LISTEN
+ 2315  sudo lsof -i TCP:80 | grep LISTEN
+ 2316  iptables 
+ 2317  iptables -t nat -A PREROUTING -p tcp --dport 80 -j REDIRECT --to-port 8080
+ 2318  cd /etc
+ 2319  ls
+ 2320  cd httpd
+ 2321  ls
+ 2322  cd apache2
+ 2323  ls
+ 2324  sudo vi httpd.conf
+ 2325  httpd -k stop
+ 2326  sudo httpd -k stop
+ 2327  sudo vi /private/etc/apache2/httpd.conf
+ 2328  sudo httpd -k stop
+ 2329  sudo vi /private/etc/apache2/extra/httpd-vhosts.conf
+ 2330  sudo httpd -k stop
+ 2331  sudo vi /private/etc/apache2/extra/httpd-vhosts.conf
+ 2332  sudo httpd -k stop
+ 2333  vi workers.ec.properties
+ 2334  ls -l
+ 2335  sudo vi workers.properties
+ 2336  sudo vi httpd.conf
+ 2337  sudo httpd -k stop
+ 2338  sudo vi /private/etc/apache2/extra/httpd-vhosts.conf
+ 2339  sudo httpd -k stop
+ 2340  sudo vi /private/etc/apache2/extra/httpd-vhosts.conf
+ 2341  sudo httpd -k stop
+ 2342  sudo vi /private/etc/apache2/extra/httpd-vhosts.conf
+ 2343  sudo httpd -k stop
+ 2344  cd /private/var/log
+ 2345  ls
+ 2346  cd apache2
+ 2347  ls
+ 2348  cd ..
+ 2349  ls -l
+ 2350  chmod 777 apache2
+ 2351  sudo chmod -777 apache2
+ 2352  sudo chmod 777 apache2
+ 2353  sudo httpd -k stop
+ 2354  ls -l
+ 2355  cd apache2
+ 2356  sudo httpd -k stop
+ 2357  mkdir mobilem
+ 2358  sudo httpd -k stop
+ 2359  mkdir api
+ 2360  mkdir m
+ 2361  mkdir bo
+ 2362  mkdir soffice
+ 2363  mkdir www
+ 2364  sudo httpd -k stop
+ 2365  sudo httpd -k start
+ 2366  sudo httpd -k stop
+ 2367  sudo vi /etc/pf.anchors/com.pow
+ 2368  vi /etc/pf.conf
+ 2369  sudo vi /etc/pf.conf
+ 2370  pwd
+ 2371  sudo pfctl -f /etc/pf.conf
+ 2372  sudo pfctl -e
+ 2373  git pull
+ 2374  cd ..
+ 2375  ls
+ 2376  cd 12.tmallmobilewebproject
+ 2377  git pull
+ 2378  git status
+ 2379  cd ..
+ 2380  ls
+ 2381  cd 12.mobileweb-static
+ 2382  git pull
+ 2383  ls
+ 2384  cd ..
+ 2385  ls
+ 2386  cd 12.tmallmobilewebproject
+ 2387  ls
+ 2388  cd src
+ 2389  ls
+ 2390  cd ..
+ 2391  cd webapps
+ 2392  ls
+ 2393  ls -l
+ 2394  ls
+ 2395  ls -l
+ 2396  unlink css
+ 2397  ls -l
+ 2398  unlink js
+ 2399  unlink img
+ 2400  ls -l
+ 2401  cd ..
+ 2402  ls
+ 2403  cd 05.etcproject
+ 2404  git status
+ 2405  git checkout src/skt/tmall/business/tlounge/config/tloungeDAOMap.xml
+ 2406  git checkout src/skt/tmall/business/tlounge/dao/TloungeDAO.java
+ 2407  git checkout src/skt/tmall/business/tlounge/dao/TloungeDAOImpl.java
+ 2408  git status
+ 2409  git pull
+ 2410  git checkout bugfix/MPSR-37090
+ 2411  git pull
+ 2412  git status
+ 2413  ExternalUtil.java
+ 2414  git status
+ 2415  git add .
+ 2416  git commit --message "Block API refactoring - Naming, Magic number ,..etc"
+ 2417  git push
+ 2418  git status
+ 2419  git add .
+ 2420  exit
+ 2421  git status
+ 2422  gut status
+ 2423  git status
+ 2424  ls
+ 2425  exit
+ 2426  git status
+ 2427  git stash
+ 2428  git status
+ 2429  git stash list
+ 2430  BRANCH=bugfix/MPSR-36683_1; git fetch origin $BRANCH && git checkout $BRANCH &&  git pull
+ 2431  git status
+ 2432  BRANCH=bugfix/MPSR-36683_1; git fetch origin $BRANCH && git checkout $BRANCH &&  git pull
+ 2433  history
+ 2434  BRANCH=bugfix/MPSR-36683_1; git fetch origin $BRANCH && git checkout $BRANCH &&  git pull
+ 2435  blew install
+ 2436  blew
+ 2437  blew --help
+ 2438  brew
+ 2439  brew search java
+ 2440  brew update
+ 2441  brew tap caskroom/versions
+ 2442  brew cask install java8
+ 2443  exit
+ 2444  git status
+ 2445  BRANCH=bugfix/MPSR-36928; git fetch origin $BRANCH && git checkout $BRANCH &&  git pull
+ 2446  git status
+ 2447  git checkout src/main/java/elevenst/tlounge/controller/TloungeAPIController.java
+ 2448  git status
+ 2449  BRANCH=bugfix/MPSR-36928; git fetch origin $BRANCH && git checkout $BRANCH &&  git pull
+ 2450  git pull
+ 2451  git status
+ 2452  git checkout src/main/java/elevenst/tlounge/domain/tlounge/service/ApiCommServiceImpl.java
+ 2453  git status
+ 2454  git update
+ 2455  git pull
+ 2456  git checkout feature/echo-mvc
+ 2457  git pull
+ 2458  cd ..
+ 2459  ls
+ 2460  cd ..
+ 2461  ls
+ 2462  cd 11st
+ 2463  ls
+ 2464  git clone ssh://git@bitbucket.11stcorp.com:7999/tf11/vine-pui.git
+ 2465  cd vine-pui
+ 2466  ls
+ 2467  BRANCH=feature/newMetaCategory; git fetch origin $BRANCH && git checkout $BRANCH &&  git pull
+ 2468  git pull
+ 2469  git status
+ 2470  git add .
+ 2471  git commit --message "JSONArray sample"
+ 2472  git push
+ 2473  git status
+ 2474  git commit --message "Apply Checkstyle"
+ 2475  git push
+ 2476  git status
+ 2477  git add
+ 2478  git add .
+ 2479  git commit --message "Apply checkstyle"
+ 2480  git push
+ 2481  git pull
+ 2482  git status
+ 2483  git update
+ 2484  git pull
+ 2485  cd ..
+ 2486  ls
+ 2487  cd app-tlounge
+ 2488  ls
+ 2489  git status
+ 2490  git stash
+ 2491  git merge master
+ 2492  git status
+ 2493  git merge master
+ 2494  git merge origin/master
+ 2495  git checkout master
+ 2496  git pull
+ 2497  git branch feature/aop
+ 2498  git checkout feature/aop
+ 2499  git pull
+ 2500  git status
+ 2501  git stash -list
+ 2502  git stash list
+ 2503  git stash apply
+ 2504  git status
+ 2505  git add .
+ 2506  git status
+ 2507  git commit --message "Test AOP v0.1"
+ 2508  git push
+ 2509  git pull
+ 2510  git status
+ 2511  git push
+ 2512  git puh --set-upstream orgin feature/aop
+ 2513  git push --set-upstream orgin feature/aop
+ 2514  git push orgin feature/aop
+ 2515  git push
+ 2516  git push origin
+ 2517  git push --set-upstream orgin feature/aop
+ 2518  git branch -u 
+ 2519  git push -u origin feature/aop
+ 2520  git status
+ 2521  git push
+ 2522  git status
+ 2523  git fetch --all
+ 2524  git status
+ 2525  git reset --hard feature/aop
+ 2526  git statu
+ 2527  git pull
+ 2528  git status
+ 2529  git add .
+ 2530  git commit --message "Rename class and method"
+ 2531  git push
+ 2532  git status
+ 2533  git add .
+ 2534  git commit --message "AOP 테스트 결과를 확인하기 쉽도록 헤더값 웹페이지  노출"
+ 2535  git push
+ 2536  git status
+ 2537  git checkout src/main/webapp/WEB-INF/echo/aop.jsp
+ 2538  git status
+ 2539  git add .
+ 2540  git commit --message "Change minor jsp sources"
+ 2541  git push
+ 2542  git add .
+ 2543  git commit --message "remove unused imports"
+ 2544  git push
+ 2545  git status
+ 2546  git add .
+ 2547  git commit --message "Apply Checkstyle"
+ 2548  git push
+ 2549  SKP1003710MN001:~ 1003710$ sudo pfctl -f /etc/pf.conf
+ 2550  SKP1003710MN001:~ 1003710$ sudo pfctl -e
+ 2551  sudo pfctl -f /etc/pf.conf
+ 2552  sudo pfctl -e
+ 2553  git checkout master
+ 2554  git pull
+ 2555  git --fetch 
+ 2556  git pull
+ 2557  git status
+ 2558  lsof -nP -i4TCP | grep LISTEN
+ 2559  pwd
+ 2560  cd 11streetPlatform/Server/apache-tomcat-7.0.68/lib
+ 2561  ls
+ 2562  ls -l
+ 2563  BRANCH=bugfix/MPSR-36729; git fetch origin $BRANCH && git checkout $BRANCH &&  git pull
+ 2564  git status
+ 2565  cd IdeaProject
+ 2566  cd develop
+ 2567  ls
+ 2568  cd AWS
+ 2569  ls
+ 2570  cd keyfile
+ 2571  chmod 740 JustinAWSKeyPair.pem
+ 2572  ls -l
+ 2573  pip
+ 2574  aws
+ 2575  python --version
+ 2576  brew python
+ 2577  brew search python
+ 2578  brew install python
+ 2579  python --version
+ 2580  curl "https://s3.amazonaws.com/aws-cli/awscli-bundle.zip" -o "awscli-bundle.zip"
+ 2581  aws --version
+ 2582  unzip awscli-bundle.zip
+ 2583  pwd
+ 2584  sudo ./awscli-bundle/install -i /usr/local/aws -b /usr/local/bin/aws
+ 2585  aws --version
+ 2586  ls -l
+ 2587  rm awscli-bundle -r
+ 2588  rm awscli-bundle.zip
+ 2589  ls -l
+ 2590  rm -rf awscli-bundle
+ 2591  ls
+ 2592  ls -l
+ 2593  aws --version
+ 2594  ls
+ 2595  history
+ 2596  history grep aws
+ 2597  history | grep aws
+ 2598  ssh -i JustinAWSKeyPair.pem ec2-user@52.78.183.122
+ 2599  pwd
+ 2600  ls
+ 2601  ssh -i JustinAWSKeyPair.pem ec2-user@52.78.183.122
+ 2602  chmod 600 JustinAWSKeyPair.pem
+ 2603  ssh -i JustinAWSKeyPair.pem ec2-user@52.78.183.122
+ 2604  ls
+ 2605  ssh -i /Users/cjloveu/IdeaProject/develop/AWSJustinAWSKeyPair.pem ec2-user@52.78.183.122
+ 2606  ssh -i /Users/cjloveu/IdeaProject/develop/AWS/JustinAWSKeyPair.pem ec2-user@52.78.183.122
+ 2607  cd /Users/cjloveu/IdeaProject/develop/
+ 2608  history
+ 2609  history | grep chmod
+ 2610  history
+ 2611  git status
+ 2612  git pull
+ 2613  git checkout master
+ 2614  git checkout
+ 2615  git pull
+ 2616  git status
+ 2617  pwd
+ 2618  ls
+ 2619  ls -l
+ 2620  vi port80.sh
+ 2621  ls -l
+ 2622  chmod 777 port80.sh
+ 2623  ./port80.sh
+ 2624  ls -l
+ 2625  mv port80.sh port80to12101.sh
+ 2626  ls -l
+ 2627  git checkout
+ 2628  git status
+ 2629  git checkout master
+ 2630  git pull
+ 2631  git status
+ 2632  git pull
+ 2633  ls
+ 2634  cd IdeaProject/ls
+ 2635  cd IdeaProject
+ 2636  ls
+ 2637  cd 11st
+ 2638  ls
+ 2639  BRANCH=release/2018.12.10.FND.IF.01; git fetch origin $BRANCH && git checkout $BRANCH && git pull
+ 2640  git clone ssh://git@bitbucket.11stcorp.com:7999/tf11/vine-pui.git
+ 2641  ls
+ 2642  cd vine-pui
+ 2643  ls
+ 2644  BRANCH=release/2018.12.10.FND.IF.01; git fetch origin $BRANCH && git checkout $BRANCH && git pull
+ 2645  git status
+ 2646  git checkout src/main/java/vine/pui/converter/converter/item/custom/metatab/DisplayCategoryGlobalBestProductItemConverter.java
+ 2647  git status
+ 2648  ping m.shop.tworld.co.kr
+ 2649  exit
+ 2650  cd ..
+ 2651  ls
+ 2652  git clone ssh://git@bitbucket.11stcorp.com:7999/stprd/omfront-display.git
+ 2653  BRANCH=bugfix/MPSR-38120; git fetch origin $BRANCH && git checkout
+ 2654  git pull
+ 2655  BRANCH=bugfix/MPSR-38120; git fetch origin $BRANCH && git checkout
+ 2656  BRANCH=bugfix/MPSR-38120; git fetch origin $BRANCH && git checkout $BRANCH
+ 2657  git pull
+ 2658  git status
+ 2659  cd IdeaProject/11st
+ 2660  ls
+ 2661  git clone ssh://git@bitbucket.11stcorp.com:7999/stprd/omdisplay-domain.git
+ 2662  cd omdisplay-domain
+ 2663  ls
+ 2664  git checkout master
+ 2665  git pull
+ 2666  history
+ 2667  history | grep node
+ 2668  ls
+ 2669  node student
+ 2670  history
+ 2671  ls -l
